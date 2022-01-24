@@ -1,8 +1,10 @@
+import Footer from "../comps/Footer";
+import Navbar from "../comps/Navbar";
+
 const About = () => {
   return (
     <div>
       <h1>About</h1>
-
       <p>
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente,
         laboriosam! Iure, quas. Error temporibus quam tempore, atque iure enim
